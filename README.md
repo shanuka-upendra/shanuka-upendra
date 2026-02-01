@@ -43,26 +43,7 @@
           <img src="https://skillicons.dev/icons?i=vscode,idea,github,postman&theme=dark" />
         </a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>Coding Activity</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=shanuka-upendra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" height="150" alt="stats" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
- 
- <br/>
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuka-upendra&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="140" alt="languages" />
- 
- <br/><br/> 
- <br/>
-
- <h3>Achievements</h3>
- <img src="https://github-profile-trophy.vercel.app/?username=shanuka-upendra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
- 
+    <div align="center">
  <br/><br/>
 
 </div>
