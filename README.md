@@ -58,6 +58,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shanuka-upendra&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 <br/>
 <div align="center">
   <h3>Activity & Contributions</h3>
