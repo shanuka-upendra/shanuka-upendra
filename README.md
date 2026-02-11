@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shanuka-upendra&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shanuka-upendra&theme=tokyonight%22%20alt=%22GitHub%20Streak%22"/>
 </p>
 
 <br/>
