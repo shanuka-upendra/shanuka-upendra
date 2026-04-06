@@ -49,7 +49,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/shanuka-upendra">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=shanuka-upendra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
@@ -66,6 +66,6 @@
 <div align="center">
   <h3>Activity & Contributions</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanuka-upendra&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%" alt="Contribution Graph" />
-</div>
+</div> -->
 
 
