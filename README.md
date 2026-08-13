@@ -1,71 +1,80 @@
 <div align="center">
 
-<h1 display="inline">Shanuka Upendra</h1>
+<h1>Hello, I'm Shanuka Upendra 👋</h1>
 
-### Web Developer & Designer
-*Creative Technologist | Passionate About Building What’s Next*
+### Full Stack Developer  
+*Software Engineer | Passionate About Building What’s Next*
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=787AF0&background=00000000&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Java+%26+JavaScript+Developer;Creative+Designer;Always+Learning" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
+<!-- Action Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/shanuka-upendra">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/shanukaupendraofficial" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/shanuka.upendra.5">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://x.com/shxnumadethis" target="_blank">
+    <img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://x.com/shxnumadethis">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <a href="https://instagram.com/s_h_x_n_u" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.facebook.com/shanuka.upendra.5" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:shanukaupendra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 </div>
 
-<br/>
+---
+
+### 💡 About Me
+
+I am an Undergraduate Software Engineering student enrolled concurrently at **iCET** and the **University of Colombo School of Computing (UCSC)**, currently serving as a Software Engineer Intern at **SYIGEN**.
+
+- 💼 **Industry Experience:** Software Engineer Intern at **SYIGEN**, building desktop features, POS systems, Next.js, Django, Laravel, Tauri & TypeScript apps.
+- 🎓 **Education:** Diploma in Software Engineering (iCET) & Foundation Degree in IT (UCSC).
+- ⚙️ **Tech Focus:** Full-Stack Web Development, Spring Boot Microservices, React/Next.js, & Cloud Engineering.
+- 🌱 **Learning & Exploring:** Low-level Rust architectures, DevOps tooling, and AI integrations.
+
+---
+
+### 📌 Featured Repositories
+
+| Repo | What it is | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| [**SkillDuel**](https://github.com/shanuka-upendra/SkillDuel) | Interactive skill assessment & competitive developer duel platform | Python, Django, PostgreSQL | [View Repo](https://github.com/shanuka-upendra/SkillDuel) |
+| [**Blog Platform**](https://github.com/shanuka-upendra/Blog-Platform) | Modern full-stack content publishing & blogging platform | PHP, Laravel, SQLite | [View Repo](https://github.com/shanuka-upendra/Blog-Platform) |
+| [**Secure Law**](https://github.com/shanuka-upendra/PrimeSprint-T1-SecureLaw) | Secure legal management & document workflow system | Java, Spring Boot, Angular | [View Repo](https://github.com/shanuka-upendra/PrimeSprint-T1-SecureLaw) |
+| [**Portfolio**](https://github.com/shanuka-upendra/smd-portfolio) | Modern developer portfolio showcasing projects and experience | React, TypeScript, Tailwind | [View Repo](https://github.com/shanuka-upendra/smd-portfolio) |
+
+---
+
+### 💻 Tech Arsenal
 
 <div align="center">
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Tech Arsenal</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,tailwind&theme=dark" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,react,figma,git&theme=dark" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=vscode,idea,github,postman&theme=dark" />
-        </a>
-  </td>
-  </tr>
-</table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,html,css,tailwind&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=spring,django,laravel,react,nextjs,angular,rust&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,nodejs,git,github&theme=dark" />
+  </a>
 </div>
 
-<br/>
+---
 
-<!-- <p align="center">
-  <a href="https://github.com/shanuka-upendra">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=shanuka-upendra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/shanuka-upendra">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shanuka-upendra&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
+### 📫 Get in Touch
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shanuka-upendra&theme=tokyonight%22%20alt=%22GitHub%20Streak%22"/>
-</p>
+Whether you'd like to collaborate on a project, discuss web development, or just say hi, feel free to reach out!
 
-<br/>
-<div align="center">
-  <h3>Activity & Contributions</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanuka-upendra&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%" alt="Contribution Graph" />
-</div> -->
+- 📧 **Email:** [shanukaupendra@gmail.com](mailto:shanukaupendra@gmail.com)
+- 💼 **LinkedIn:** [Shanuka Upendra](https://linkedin.com/in/shanukaupendraofficial)
+- 🐦 **X (Twitter):** [@shxnumadethis](https://x.com/shxnumadethis)
+- 📷 **Instagram:** [@s_h_x_n_u](https://instagram.com/s_h_x_n_u)
+- 📘 **Facebook:** [Shanuka Upendra](https://www.facebook.com/shanuka.upendra.5)
+
 
 
