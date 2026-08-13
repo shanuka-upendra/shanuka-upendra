@@ -36,7 +36,7 @@
 
 ### 💡 About Me
 
-I am an Undergraduate Software Engineering student enrolled concurrently at **iCET** and the **University of Colombo School of Computing (UCSC)**, currently engineering production solutions as a Software Engineer Intern at **SYIGEN**.
+I am a **Full-Stack Software Engineer** focused on building robust enterprise applications, high-performance web systems, and intelligent digital experiences with Java, React, and Cloud Architectures. Currently an Undergraduate Software Engineering student & serving as a Software Engineer Intern at **SYIGEN**.
 
 - 🚀 **Current Focus:** Multi-language full-stack engineering in **Java** (Spring Boot), **TypeScript** (React & Next.js), **Python** (Django), **PHP** (Laravel), and **Rust**.
 
