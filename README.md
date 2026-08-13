@@ -2,12 +2,14 @@
 
 <h1>Hello, I'm Shanuka Upendra 👋</h1>
 
-### Full Stack Developer  
-*Software Engineer | Passionate About Building What’s Next*
-
-
+### Full Stack Developer & Software Engineer
+*Passionate About Architecting Modular Systems & Building What’s Next*
 
 <br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanuka-upendra&label=Profile+Views&color=787AF0&style=flat-square" alt="Profile Views"/>
+</p>
 
 <!-- Action Badges -->
 <p align="center">
@@ -34,23 +36,14 @@
 
 ### 💡 About Me
 
-I am an Undergraduate Software Engineering student enrolled concurrently at **iCET** and the **University of Colombo School of Computing (UCSC)**, currently serving as a Software Engineer Intern at **SYIGEN**.
+I am an Undergraduate Software Engineering student enrolled concurrently at **iCET** and the **University of Colombo School of Computing (UCSC)**, currently engineering production solutions as a Software Engineer Intern at **SYIGEN**.
 
-- 💼 **Industry Experience:** Software Engineer Intern at **SYIGEN**, building desktop features, POS systems, Next.js, Django, Laravel, Tauri & TypeScript apps.
-- 🎓 **Education:** Diploma in Software Engineering (iCET) & Foundation Degree in IT (UCSC).
-- ⚙️ **Tech Focus:** Full-Stack Web Development, Spring Boot Microservices, React/Next.js, & Cloud Engineering.
+- 🚀 **Current Focus:** Multi-language full-stack engineering in **Java** (Spring Boot), **TypeScript** (React & Next.js), **Python** (Django), **PHP** (Laravel), and **Rust**.
+
+- 💼 **Industry Experience:** Software Engineer Intern @ **SYIGEN** — building desktop features, POS systems, Next.js, Django, Laravel, Tauri & TypeScript apps.
+- 🎓 **Academic Education:** Diploma in Software Engineering (**iCET**) & Foundation Degree in IT (**UCSC**).
+- ⚙️ **Core Engineering Focus:** Analytical Problem Solving, System Design, Clean Architecture & Scalable Engineering Solutions.
 - 🌱 **Learning & Exploring:** Low-level Rust architectures, DevOps tooling, and AI integrations.
-
----
-
-### 📌 Featured Repositories
-
-| Repo | What it is | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| [**SkillDuel**](https://github.com/shanuka-upendra/SkillDuel) | Interactive skill assessment & competitive developer duel platform | Python, Django, PostgreSQL | [View Repo](https://github.com/shanuka-upendra/SkillDuel) |
-| [**Blog Platform**](https://github.com/shanuka-upendra/Blog-Platform) | Modern full-stack content publishing & blogging platform | PHP, Laravel, SQLite | [View Repo](https://github.com/shanuka-upendra/Blog-Platform) |
-| [**Secure Law**](https://github.com/shanuka-upendra/PrimeSprint-T1-SecureLaw) | Secure legal management & document workflow system | Java, Spring Boot, Angular | [View Repo](https://github.com/shanuka-upendra/PrimeSprint-T1-SecureLaw) |
-| [**Portfolio**](https://github.com/shanuka-upendra/smd-portfolio) | Modern developer portfolio showcasing projects and experience | React, TypeScript, Tailwind | [View Repo](https://github.com/shanuka-upendra/smd-portfolio) |
 
 ---
 
@@ -68,13 +61,14 @@ I am an Undergraduate Software Engineering student enrolled concurrently at **iC
 
 ### 📫 Get in Touch
 
-Whether you'd like to collaborate on a project, discuss web development, or just say hi, feel free to reach out!
+Whether you'd like to collaborate on a project, discuss full-stack engineering, or just say hi, feel free to reach out!
 
 - 📧 **Email:** [shanukaupendra@gmail.com](mailto:shanukaupendra@gmail.com)
-- 💼 **LinkedIn:** [Shanuka Upendra](https://linkedin.com/in/shanukaupendraofficial)
+- 💼 **LinkedIn:** [linkedin.com/in/shanukaupendraofficial](https://linkedin.com/in/shanukaupendraofficial)
 - 🐦 **X (Twitter):** [@shxnumadethis](https://x.com/shxnumadethis)
 - 📷 **Instagram:** [@s_h_x_n_u](https://instagram.com/s_h_x_n_u)
-- 📘 **Facebook:** [Shanuka Upendra](https://www.facebook.com/shanuka.upendra.5)
+- 📘 **Facebook:** [facebook.com/shanuka.upendra.5](https://www.facebook.com/shanuka.upendra.5)
+
 
 
 
